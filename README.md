@@ -8,7 +8,7 @@ This repository includes statistical code or other files for peer-reviewed publi
 3. Anxiety_TLModeration_JAGScode.txt script for JAGs code referenced in both Bayesian regression code files
 4. Reference: Kertes, D.A, Clendinen, C., Duan, K., Rabinowitz, J., Browning, C., Kvam, P. (2023). Social environment matters for the relation of telomere length and internalizing problems during adolescence. Journal of Youth and Adolescence.
 
-##Leri_Liu_Kelly_Kertes_2024
+## Leri_Liu_Kelly_Kertes_2024
 
 1. Online Supplemental Table 2_ENCODE Accession Numbers
 2. Online Supplemental Table 3_CpG Sites Significantly Associated With Temperament Dimensions
@@ -16,5 +16,6 @@ This repository includes statistical code or other files for peer-reviewed publi
 4. Online Supplemental Table 5_Negative AFfect TFBs
 5. Online Supplemental Table 6_Surgency_KEGG TFBs
 6. Online Supplemental Table 7_Surgency Gene Ontology TFBs
+Reference: Leri, J., Liu, J., Kelly, M., & Kertes, D. A. (2024). A preliminary investigation of epigenome‐wide DNA methylation and temperament during infancy. Developmental Psychobiology, e22475. https://doi.org/10.1002/dev.22475
 
 
